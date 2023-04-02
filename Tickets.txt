@@ -1,0 +1,3 @@
+Zohaib	Farooq	3520221939759	3092912094	Karachi	Thursday	4	30	PM	PIA	60000   LahoreAirport
+Zubair  Farooq  3520279459511   3424070976      Karachi Monday          2       30      AM      AirBlue 60000   LahoreAirport
+Zeeshan	Ayyub	3520233193565	3464763490	Dubai	Monday	1	30	PM	PIA	60000	LahoreAirport

@@ -1,0 +1,5 @@
+Islamabad  Monday  9  30  AM  PIA  PK-304    Karachi Airport
+London  Tuesday   2  50  AM  AirBlue  AB-098    Lahore Airport
+Toronto  Wednesday  5  30  PM  ShaheenAirline   SH-908    Islamabad Airport
+Jadda    Saturday   1  20  AM  PIA  PK-809  Skardo Airport
+Hawai	Thursday	4:50AM	AirBlue	AB-087	LahoreAirport
